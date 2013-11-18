@@ -1,0 +1,27 @@
+                           Upload Information Template for Hobbes.nmsu.edu
+                           ===============================================
+
+            Archive Name:  kdc_dc2.zip
+       Short Description:  Convert .KDC to .JPG/.BMP and .DC2 to .TGA
+        Long Description:  Command line tool to convert Kodak compressed .KDC files to .JPG, and the uncompressed .KDC files to .BMP; converts Kodak .DC2 to .TGA; includes source code
+
+      Proposed directory
+           for placement:  /pub/os2/apps/graphics/convert
+
+               Your name:  Stephane Charette
+           Email address:  charette@writeme.com
+    Program contact name:  (same)
+   Program contact email:  (same)
+        Program homepage:  (none)
+
+      Would you like the
+     contact information
+                included?  yes
+
+Operating System/Version:  OS/2 v2.x and higher
+ Additional requirements:
+
+                Replaces:  kdc2jpg.zip & previous versions of kdc_file.zip
+
+
+
